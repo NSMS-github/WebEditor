@@ -1,0 +1,15 @@
+C:\Users\itsvi\source\repos\WebEditor\bin\Debug\WebEditor.exe.config
+C:\Users\itsvi\source\repos\WebEditor\bin\Debug\WebEditor.exe
+C:\Users\itsvi\source\repos\WebEditor\bin\Debug\WebEditor.pdb
+C:\Users\itsvi\source\repos\WebEditor\obj\Debug\WebEditor.csproj.AssemblyReference.cache
+C:\Users\itsvi\source\repos\WebEditor\obj\Debug\WebEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\itsvi\source\repos\WebEditor\obj\Debug\WebEditor.Form1.resources
+C:\Users\itsvi\source\repos\WebEditor\obj\Debug\WebEditor.Properties.Resources.resources
+C:\Users\itsvi\source\repos\WebEditor\obj\Debug\WebEditor.csproj.GenerateResource.cache
+C:\Users\itsvi\source\repos\WebEditor\obj\Debug\WebEditor.csproj.CoreCompileInputs.cache
+C:\Users\itsvi\source\repos\WebEditor\obj\Debug\WebEditor.exe
+C:\Users\itsvi\source\repos\WebEditor\obj\Debug\WebEditor.pdb
+C:\Users\itsvi\source\repos\WebEditor\bin\Debug\WebEditor.exe.manifest
+C:\Users\itsvi\source\repos\WebEditor\bin\Debug\WebEditor.application
+C:\Users\itsvi\source\repos\WebEditor\obj\Debug\WebEditor.exe.manifest
+C:\Users\itsvi\source\repos\WebEditor\obj\Debug\WebEditor.application
